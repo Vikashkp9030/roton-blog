@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814482015715",
+    "project_id": "roton-task",
+    "storage_bucket": "roton-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814482015715:android:3159032b59b91dece8ccd6",
+        "android_client_info": {
+          "package_name": "com.example.roton_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814482015715-a72j4c17ieihk4tokqevodaati42qk58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8t3SWuJr6DMR8uTVx1T-vr3VSIDEncA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814482015715-a72j4c17ieihk4tokqevodaati42qk58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
